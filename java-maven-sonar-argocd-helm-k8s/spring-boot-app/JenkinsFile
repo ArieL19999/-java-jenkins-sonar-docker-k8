@@ -48,7 +48,7 @@ pipeline {
     }
     stage('Update Deployment File') {
         environment {
-            GIT_REPO_NAME = "project-2"
+            GIT_REPO_NAME = "project-2.0"
             GIT_USER_NAME = "ArieL19999"
         }
         steps {
