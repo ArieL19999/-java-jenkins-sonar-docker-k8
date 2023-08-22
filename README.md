@@ -1,1 +1,1 @@
-# java-jenkins-docker-k8
+# java-jenkins-sonar-docker-k8
